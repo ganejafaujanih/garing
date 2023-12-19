@@ -60,10 +60,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": ghostrider,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "143.42.65.73:80",
+            "user": "SSuVek3r3mmQSLkincjW4K1HkBGCj6adEU.DUARRRRR",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
